@@ -10,6 +10,17 @@ meka project is a substrate based blockchain focus on `cross-chain identity`. it
 
 # Building
 
+Currently this node is based on the substrate v1.0, all the srml should use the same rev.
+
+It is recommaned to use the `2019-07-14` as the rust version.
+
+```
+rustup default nightly-2019-07-14
+rustup target add wasm32-unknown-unknown --toolchain nightly-2019-07-14`
+```
+
+Origin Process:
+
 Install Rust:
 
 ```bash
