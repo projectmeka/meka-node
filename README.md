@@ -6,6 +6,7 @@ meka project is a substrate based blockchain focus on `cross-chain identity`. it
 * social media identity binding
 * kyc info claim and binding 
 * reputation
+* ...
 
 # Building
 
