@@ -1,6 +1,11 @@
 # meka-node
 
-A new SRML-based Substrate node, ready for hacking.
+meka project is a substrate based blockchain focus on `cross-chain identity`. it includes
+
+* digital identity binding
+* social media identity binding
+* kyc info claim and binding 
+* reputation
 
 # Building
 
