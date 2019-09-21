@@ -2,10 +2,10 @@
 
 meka project is a substrate based blockchain focus on `cross-chain identity`. it includes
 
-* digital identity binding
-* social media identity binding
-* kyc info claim and binding 
-* reputation
+* bip-44 based digital addresses binding [srml link](https://github.com/projectmeka/meka-identity)
+* social media identity binding [srml link](https://github.com/projectmeka/meka-passport)
+* kyc info claim and binding [srml link]()
+* reputation [srml link](https://github.com/projectmeka/meka-reputation)
 * ...
 
 # Building
