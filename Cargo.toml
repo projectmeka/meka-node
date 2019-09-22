@@ -76,7 +76,7 @@ vergen = '3'
 panic = 'unwind'
 
 [package]
-authors = ['Parity Technologies <admin@parity.io>']
+authors = ['Meka Team<admin@bitportal.io>']
 build = 'build.rs'
 edition = '2018'
 name = 'meka-node'

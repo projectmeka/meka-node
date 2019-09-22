@@ -120,6 +120,11 @@ git = 'https://github.com/paritytech/substrate.git'
 package = 'sr-version'
 rev = 'cc1d67e973fd02c0c997b164ba516cf041bf21f1'
 
+[dependencies.meka-passport]
+default_features = false
+path = "../../v1.0/meka-passport"
+# git = 'https://github.com/projectmeka/meka-passport.git'
+
 [features]
 default = ['std']
 std = [
@@ -142,6 +147,7 @@ std = [
     'safe-mix/std',
     'consensus-aura/std',
     'offchain-primitives/std',
+    'meka-passport/std',
 ]
 
 [package]
